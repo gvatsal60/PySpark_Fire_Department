@@ -1,15 +1,17 @@
-# PySparkTemplate (Inside DevContainer)
+# PySpark_Fire_Department (Inside DevContainer)
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://img.shields.io/github/license/gvatsal60/PySparkTemplate)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/gvatsal60/PySparkTemplate/master.svg)](https://results.pre-commit.ci/latest/github/gvatsal60/PySparkTemplate/HEAD)
-[![CodeFactor](https://www.codefactor.io/repository/github/gvatsal60/PySparkTemplate/badge)](https://www.codefactor.io/repository/github/gvatsal60/PySparkTemplate)
-![GitHub pull-requests](https://img.shields.io/github/issues-pr/gvatsal60/PySparkTemplate)
-![GitHub Issues](https://img.shields.io/github/issues/gvatsal60/PySparkTemplate)
-![GitHub forks](https://img.shields.io/github/forks/gvatsal60/PySparkTemplate)
-![GitHub stars](https://img.shields.io/github/stars/gvatsal60/PySparkTemplate)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://img.shields.io/github/license/gvatsal60/PySpark_Fire_Department)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/gvatsal60/PySpark_Fire_Department/master.svg)](https://results.pre-commit.ci/latest/github/gvatsal60/PySpark_Fire_Department/HEAD)
+[![CodeFactor](https://www.codefactor.io/repository/github/gvatsal60/PySpark_Fire_Department/badge)](https://www.codefactor.io/repository/github/gvatsal60/PySpark_Fire_Department)
+![GitHub pull-requests](https://img.shields.io/github/issues-pr/gvatsal60/PySpark_Fire_Department)
+![GitHub Issues](https://img.shields.io/github/issues/gvatsal60/PySpark_Fire_Department)
+![GitHub forks](https://img.shields.io/github/forks/gvatsal60/PySpark_Fire_Department)
+![GitHub stars](https://img.shields.io/github/stars/gvatsal60/PySpark_Fire_Department)
 
 This repository serves as a foundational template for **pyspark** projects,
 equipped with essential tools for maintaining code quality and documentation consistency.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvatsal60/PySpark_Fire_Department.git/HEAD)
 
 ## Prerequisites
 
@@ -26,7 +28,7 @@ Make sure you have the following installed:
 First, clone the repository containing the code to your local machine:
 
 ```sh
-git clone https://github.com/gvatsal60/PySparkTemplate.git
+git clone https://github.com/gvatsal60/PySpark_Fire_Department.git
 ```
 
 ### 2. **Open the Directory in VSCode:**
@@ -47,11 +49,11 @@ git clone https://github.com/gvatsal60/PySparkTemplate.git
 ## Contributing
 
 Contributions are welcome! Please read our
-[Contribution Guidelines](https://github.com/gvatsal60/PySparkTemplate/blob/HEAD/CONTRIBUTING.md)
+[Contribution Guidelines](https://github.com/gvatsal60/PySpark_Fire_Department/blob/HEAD/CONTRIBUTING.md)
 before submitting pull requests.
 
 ## License
 
 This project is licensed under the Apache License 2.0 License -
-see the [LICENSE](https://github.com/gvatsal60/PySparkTemplate/blob/HEAD/LICENSE)
+see the [LICENSE](https://github.com/gvatsal60/PySpark_Fire_Department/blob/HEAD/LICENSE)
 file for details.
