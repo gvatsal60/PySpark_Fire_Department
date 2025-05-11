@@ -3,18 +3,18 @@ channels:
   - conda-forge
 dependencies:
   # Enforce Python version
-  - python=3.12
+  # - python=3.12
 
   # PySparks
   - pyspark
 
   # Scientific python
   - jupyterlab
-  - networkx
-  - numpy
-  - openpyxl
-  - pandas
-  - scipy
+  # - networkx
+  # - numpy
+  # - openpyxl
+  # - pandas
+  # - scipy
 
   # Plotting
   # - ipympl
@@ -36,7 +36,7 @@ dependencies:
   # - pymatgen
 
   # Utilities
-  - pycodestyle
+  # - pycodestyle
   - ruff
 
   # Install some things through pip
