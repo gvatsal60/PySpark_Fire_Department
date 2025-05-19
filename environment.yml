@@ -7,7 +7,6 @@ dependencies:
 
   # PySparks
   - pyspark
-
   # Scientific python
   - jupyterlab
   # - networkx
@@ -39,6 +38,6 @@ dependencies:
   # - pycodestyle
   - ruff
 
-  # Install some things through pip
-  # - pip:
-  #   - mpcontribs-client
+# Install some things through pip
+# - pip:
+#   - mpcontribs-client
